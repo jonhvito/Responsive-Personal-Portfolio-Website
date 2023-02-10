@@ -82,6 +82,7 @@ const nav = document.querySelector(".nav"),
        removeBackSection();
        addBackSection(sectionIndex);
     })
+    
     const navTogglerBtn = document.querySelector(".nav-toggler"),
         aside = document.querySelector(".aside");
         navTogglerBtn.addEventListener("click", () => 
