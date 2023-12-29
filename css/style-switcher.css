@@ -32,6 +32,27 @@
   transition: all 0.3s ease;
   border-radius: 50%;
 }
+.style-switcher .github
+{
+  position: absolute;
+  height: 40px;
+  width: 43px;
+  text-align: center;
+  font-size: 34px;
+  
+  right: 100%;
+  margin-right: 25.2px;
+  margin-bottom: 3px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 50%;
+  bottom: 100px;
+  
+}
+.style-switcher .github a{
+  color: var(--text-black-900);
+}
+
 .style-switcher .s-icon i
 {
   line-height: 40px;
