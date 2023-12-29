@@ -15,10 +15,10 @@
   5. README.md: Este arquivo, fornecendo informações sobre o projeto.
 
 
-## Funcionalidades
-    - Navegação Suave:
-
-    - Menu de navegação suave para rolar até as diferentes seções do site.
+# Funcionalidades
+  - Navegação Suave.
+  - Menu de navegação suave para rolar até as diferentes seções do site.
+    
 # Seções:
 
   - **Home**: Apresenta uma breve introdução sobre o desenvolvedor e a oportunidade de baixar o currículo.
@@ -30,7 +30,7 @@
 
 # Estilo Alternativo:
 
-    -- O site possui um interruptor de estilo que permite aos usuários escolher entre diferentes esquemas de cores.
+  - O site possui um interruptor de estilo que permite aos usuários escolher entre diferentes esquemas de cores.
 
 ## Usa a biblioteca *Font Awesome* para ícones.
 
@@ -39,8 +39,8 @@
 
 
 # Como Usar
-- Faça o download do projeto.
-- Abra o arquivo index.html em um navegador web.
+    - Faça o download do projeto.
+    - Abra o arquivo index.html em um navegador web.
 
 
 # *Autor*
