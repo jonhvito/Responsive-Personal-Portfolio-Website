@@ -16,10 +16,10 @@
 
 
 ## Funcionalidades
-Navegação Suave:
+    - Navegação Suave:
 
-## Menu de navegação suave para rolar até as diferentes seções do site.
-Seções:
+    - Menu de navegação suave para rolar até as diferentes seções do site.
+# Seções:
 
   - **Home**: Apresenta uma breve introdução sobre o desenvolvedor e a oportunidade de baixar o currículo.
   - **About**: Oferece informações detalhadas sobre o desenvolvedor, incluindo habilidades, informações pessoais e educacionais.
@@ -30,9 +30,9 @@ Seções:
 
 # Estilo Alternativo:
 
-## O site possui um interruptor de estilo que permite aos usuários escolher entre diferentes esquemas de cores.
+    -- O site possui um interruptor de estilo que permite aos usuários escolher entre diferentes esquemas de cores.
 
-## Usa a biblioteca **Font Awesome** para ícones.
+## Usa a biblioteca *Font Awesome* para ícones.
 
 
 ## Possibilidade de baixar o currículo em PDF.
