@@ -5,13 +5,13 @@
 
   1. index.html: Arquivo principal que contém a estrutura do site e o conteúdo dinâmico.
   2. css/: Pasta que armazena os arquivos de estilo.
-   - style.css: Folha de estilo principal do projeto.
-   -  skins/: Pasta que contém os estilos de cores alternativos.
-   - style-switcher.css: Estilo para o interruptor de estilo.
+     - style.css: Folha de estilo principal do projeto.
+     -  skins/: Pasta que contém os estilos de cores alternativos.
+     - style-switcher.css: Estilo para o interruptor de estilo.
   3. images/: Pasta que contém as imagens utilizadas no projeto.
   4. js/: Pasta que contém os arquivos JavaScript.
-   - script.js: Contém scripts JavaScript para interatividade.
-   - style-switcher.js: Contém scripts para o interruptor de estilo.
+     - script.js: Contém scripts JavaScript para interatividade.
+     - style-switcher.js: Contém scripts para o interruptor de estilo.
   5. README.md: Este arquivo, fornecendo informações sobre o projeto.
 
 
