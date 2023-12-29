@@ -5,13 +5,13 @@
 
   1. index.html: Arquivo principal que contém a estrutura do site e o conteúdo dinâmico.
   2. css/: Pasta que armazena os arquivos de estilo.
-    2.1 style.css: Folha de estilo principal do projeto.
-    2.2 skins/: Pasta que contém os estilos de cores alternativos.
-    2.3 style-switcher.css: Estilo para o interruptor de estilo.
+    2.1. style.css: Folha de estilo principal do projeto.
+    2.2. skins/: Pasta que contém os estilos de cores alternativos.
+    2.3. style-switcher.css: Estilo para o interruptor de estilo.
   3. images/: Pasta que contém as imagens utilizadas no projeto.
   4. js/: Pasta que contém os arquivos JavaScript.
-    4.1 script.js: Contém scripts JavaScript para interatividade.
-    4.2 style-switcher.js: Contém scripts para o interruptor de estilo.
+    4.1. script.js: Contém scripts JavaScript para interatividade.
+    4.2. style-switcher.js: Contém scripts para o interruptor de estilo.
   5. README.md: Este arquivo, fornecendo informações sobre o projeto.
 
 
@@ -28,7 +28,7 @@ Seções:
   - **Contato**: Fornece informações de contato e um formulário para envio de mensagens.
 
 
-## Estilo Alternativo:
+# Estilo Alternativo:
 
 ## O site possui um interruptor de estilo que permite aos usuários escolher entre diferentes esquemas de cores.
 
@@ -45,6 +45,6 @@ Seções:
 
 # *Autor*
 **Nome: João Victor**
-- Email: joaovictor.feitosa@estudante.cear.ufpb.br -
+- Email: joaovictor.feitosa@estudante.cear.ufpb.br 
 
 
