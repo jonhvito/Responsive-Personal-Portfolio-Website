@@ -8,7 +8,7 @@
 
 Um portfólio profissional moderno com recursos interativos e personalização visual.
 
-![Preview do Portfólio](https://via.placeholder.com/800x400?text=Preview+do+Site) <!-- Adicione uma screenshot real -->
+![Preview do Portfólio]([https://via.placeholder.com/800x400?text=Preview+do+Site](https://jonhvito.github.io/Responsive-Personal-Portfolio-Website/)) <!-- Adicione uma screenshot real -->
 
 ## ✨ Funcionalidades Principais
 - 🖱️ Navegação suave entre seções
