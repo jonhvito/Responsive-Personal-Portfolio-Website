@@ -8,7 +8,7 @@
 
 Um portfólio profissional moderno com recursos interativos e personalização visual.
 
-![Preview do Portfólio]([https://via.placeholder.com/800x400?text=Preview+do+Site](https://jonhvito.github.io/Responsive-Personal-Portfolio-Website/)) <!-- Adicione uma screenshot real -->
+[Preview do Portfólio](https://jonhvito.github.io/Responsive-Personal-Portfolio-Website/) <!-- Adicione uma screenshot real -->
 
 ## ✨ Funcionalidades Principais
 - 🖱️ Navegação suave entre seções
@@ -68,7 +68,7 @@ git clone https://github.com/seu-usuario/portfolio.git
 cd portfolio && open index.html
 ```
 
-**Ou** acesse online: [Demo ao Vivo](#) <!-- Adicione URL se disponível -->
+**Ou** acesse online: [Demo ao Vivo](https://jonhvito.github.io/Responsive-Personal-Portfolio-Website/) <!-- Adicione URL se disponível -->
 
 ## 👨💻 Autor
 | **João Victor**                                             |
